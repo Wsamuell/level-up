@@ -1,4 +1,4 @@
-# melange-opam-template
+# level-up
 
 A simple project template using [Melange](https://github.com/melange-re/melange)
 with [opam](https://opam.ocaml.org/).
@@ -27,10 +27,10 @@ You can see all available commands by running `make help` or just `make`. Here
 are a few of the most useful ones:
 
 - `make init`: set up opam local switch and download OCaml, Melange and
-JavaScript dependencies
+  JavaScript dependencies
 - `make install`: install OCaml, Melange and JavaScript dependencies
 - `make watch`: watch for the filesystem and have Melange rebuild on every
-change
+  change
 - `make serve`: serve the application with a local HTTP server
 
 ## JavaScript output

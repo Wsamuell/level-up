@@ -4,7 +4,7 @@
 
 (generate_opam_files true)
 
-(name melange-opam-template)
+(name level-up)
 
 (license "MIT")
 
@@ -18,7 +18,7 @@
 
 (package
  (allow_empty)
- (name melange-opam-template)
+ (name level-up)
  (synopsis "Melange project")
  (description "Minimal melange project")
  (depends
